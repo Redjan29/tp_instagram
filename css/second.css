@@ -122,11 +122,3 @@ footer{
     margin-bottom: 2rem;
 }
 
-@media screen and (max-width:65rem){
-    
-    section ul  {    
-        margin-left: 10rem;
-        margin-right: 9rem; 
-        margin-bottom: 2rem;
-    }
-    }
